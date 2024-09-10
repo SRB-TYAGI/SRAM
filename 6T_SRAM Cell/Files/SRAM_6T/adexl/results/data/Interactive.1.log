@@ -1,0 +1,22 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Sep  9 23:11:12 2024 
+Best design point: 1
+Design specs: 
+	SRAM:SRAM_6T:1	corner	C0_0 - 
+	SRAM:SRAM_6T:1	corner	C0_1 - 
+	SRAM:SRAM_6T:1	corner	C0_2 - 
+	SRAM:SRAM_6T:1	corner	C0_3 - 
+	SRAM:SRAM_6T:1	corner	C0_4 - 
+	SRAM:SRAM_6T:1	corner	C0_5 - 
+	SRAM:SRAM_6T:1	corner	C0_6 - 
+	SRAM:SRAM_6T:1	corner	C0_7 - 
+	SRAM:SRAM_6T:1	corner	Nominal - 
+Design parameters: 
+	vdd		1.8
+
+Interactive.1
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.1 completed. 
+Current time: Mon Sep  9 23:11:35 2024 
